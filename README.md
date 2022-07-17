@@ -1,1 +1,1 @@
-make tea not love
+README for 0x19C Stacks, Queues - LIFO, FIFO
